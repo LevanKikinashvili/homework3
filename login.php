@@ -20,7 +20,7 @@ $_SESSION['use']=$user;
         {
             echo "Incorrect username or password";        
         }
-}
+
  ?>
 <html>
 <head>
